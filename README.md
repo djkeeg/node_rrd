@@ -1,3 +1,5 @@
+# Updates were merged back to the original project at ORION98MC/node_rrd
+
 # Description
 
 node_rrd is a node.js (http://nodejs.org) native binding for RRDtool (http://oss.oetiker.ch/rrdtool/).
